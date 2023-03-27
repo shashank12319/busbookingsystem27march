@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "spring.jpa.properites.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.properites.dialect'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}
